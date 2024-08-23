@@ -1,0 +1,1 @@
+print("solo lo mio de mi")
